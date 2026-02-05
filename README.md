@@ -1,1 +1,0 @@
-# Zaad-ul-quran-policies

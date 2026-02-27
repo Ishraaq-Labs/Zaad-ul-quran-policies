@@ -1,8 +1,3 @@
-Gemini said
-Here is a standard template for a Terms of Service (ToS) agreement tailored for a Quran application.
-
-Disclaimer: I am an AI, not a lawyer. This template is provided for informational purposes only and does not constitute legal advice. I highly recommend having a qualified attorney review these terms to ensure they comply with local laws and fit your app's specific features (like subscriptions, user accounts, or specific copyrighted audio/translations).
-
 Terms of Service for Zaad ul Quran
 Last Updated: 27-02-2026
 
